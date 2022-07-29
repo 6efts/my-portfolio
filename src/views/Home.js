@@ -38,7 +38,7 @@ const Home = () => {
 
           </div>
         </div>
-        <div id="Home" className="  bg-[#3e484a] h-full w-[75%]  ">
+        <div id="Home" className="  bg-[#3e484a] h-full w-[75%]  "  >
           <div className=" h-[60%] w-full">
 
 
@@ -83,7 +83,7 @@ const Home = () => {
       </div>
       <div className="h-[5vh] bg-[#3e484a] flex-wrap w-full "></div>
       <div className="w-full h-[100vh] bg-[#3e484a]  flex-wrap flex ">
-        <div id="Gallery" className="w-[75%]  border-r-2 border-[#D67835] flex flex-wrap justify-end px-4 pt-4 font-['Lato']">
+        <div id="Projects" className="w-[75%]  border-r-2 border-[#D67835] flex flex-wrap justify-end px-4 pt-4 font-['Lato']">
           <div className="flex  w-[80%] flex-wrap justify-end h-[100%] ">
 
             <div className="w-[30%] h-[30%]  bg-black hover:opacity-40 ml-5 cursor-pointer text-right rounded-lg">

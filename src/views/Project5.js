@@ -12,8 +12,8 @@ const Project5 = () => {
       <div className="flex h-[65vh] bg-[#3e484a] ">
         <div className="w-9/12  border-r-[#D67835] border-r-2 flex flex-col justify-end items-end p-4  ">
           <div className="h-[50%]  w-[60%] px-4 flex flex-col  max-w-5xl justify-end font-['Lato'] text-[#C4CFD2] ">
-            <p className="text-2xl text-[#D67835] ">POKEMON APP <span className="text-sm text-[#C4CFD2]">GUIDE </span><span className="text-sm"> : HTML5, CSS3, Javascript, REACT JS</span></p>
-            <p>(<span className="text-[#D67835]">Mobile responsive</span>) <br /> This is an E-commerce website app created using react. This has no back-end yet but we can still perform a simple front end add to cart function. This website is Black Pink inspired</p></div>
+            <p className="text-2xl text-[#D67835] ">E-COMMERCE  <span className="text-sm text-[#C4CFD2]">WEBSITE </span><span className="text-sm"> : HTML5, CSS3, Javascript, REACT JS</span></p>
+            <p>(<span className="text-[#D67835]">Mobile responsive</span>) <br />We created an E-Commerce website app which you can buy and store it to cart and pay it but it has no backend.</p></div>
           <div className="w-[60%] h-[50%]  flex p-4">
             <div className="w-[33%] border-2 border-[#D67835]  rounded mr-6  ">
               <img className="w-[100%] h-[100%] object-cover rounded " src={image1} alt="axie-icon" />
@@ -26,12 +26,12 @@ const Project5 = () => {
             </div>
           </div>
         </div>
-        <div className="flex items-end w-1/4 pl-8 text-2xl font-['Lato'] text-[#C4CFD2]">Go to website</div>
+        <div className="flex items-end w-1/4 pl-8 text-2xl font-['Lato'] text-[#C4CFD2]">GO TO :<a className="ml-2 hover:text-[#D67835] " href=" https://github.com/6efts/project-5 " target="_blank">  GITHUB LINK</a></div>
       </div>
       <div className="flex h-[29vh] bg-[#3e484a] font-['Lato'] ">
         <div className="w-[74.9%]"></div>
         <div className='w-[11%] border-t-[#D67835]   text-2xl  border-t-2 pl-8 text-[#C4CFD2] '>
-          HEROKU SITE
+          <a className="ml-20 hover:text-[#D67835]" href="https://axie-guide-static-website.netlify.app" target="_blank">HEROKU SITE</a>
         </div>
         <div className="w-[14.1%]"></div>
       </div>

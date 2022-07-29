@@ -20,11 +20,22 @@ const Home = () => {
         <div className=" h-full w-[25%] flex bg-[#3e484a] flex-col">
           <div className="w-[100%] h-3/5 ]"></div>
           <div className="w-[100%] h-2/5  border-r-2 border-[#D67835] flex  items-end flex-col pt-1.5 pr-4 gap-3">
-            <FaGithub size={30} color="#C4CFD2" className="hover:bg-[#D67835] hover: rounded-full cursor-pointer" />
-            <FaLinkedinIn size={30} color="#C4CFD2" className="hover:bg-[#D67835] hover: rounded-md cursor-pointer" />
-            <FaGitlab size={30} color="#C4CFD2" className="hover:bg-[#D67835] hover: rounded-full cursor-pointer" />
-            <FaFacebook size={30} color="#C4CFD2" className="hover:bg-[#D67835] hover: rounded-full cursor-pointer" />
-            <FaGoogle size={30} color="#C4CFD2" className="hover:bg-[#D67835] hover: rounded-full cursor-pointer" />
+            <a href="https://github.com/6efts">
+              <FaGithub size={30} color="#C4CFD2" className="hover:bg-[#D67835] hover: rounded-full cursor-pointer" />
+            </a>
+            <a href="https://www.linkedin.com/in/jarren-dehonor/">
+
+              <FaLinkedinIn size={30} color="#C4CFD2" className="hover:bg-[#D67835] hover: rounded-md cursor-pointer" />
+            </a>
+            <a href="https://gitlab.com/vince.dehonor1">
+
+              <FaGitlab size={30} color="#C4CFD2" className="hover:bg-[#D67835] hover: rounded-full cursor-pointer" />
+            </a>
+            <a href="https://www.facebook.com/6efts/">
+              <FaFacebook size={30} color="#C4CFD2" className="hover:bg-[#D67835] hover: rounded-full cursor-pointer" />
+            </a>
+
+
           </div>
         </div>
         <div id="Home" className="  bg-[#3e484a] h-full w-[75%]  ">

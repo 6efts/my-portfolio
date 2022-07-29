@@ -26,12 +26,12 @@ const Project4 = () => {
             </div>
           </div>
         </div>
-        <div className="flex items-end w-1/4 pl-8 text-2xl font-['Lato'] text-[#C4CFD2]">Go to website</div>
+        <div className="flex items-end w-1/4 pl-8 text-2xl font-['Lato'] text-[#C4CFD2]">GO TO :<a className="ml-2 hover:text-[#D67835] " href=" https://github.com/6efts/project-4 " target="_blank">  GITHUB LINK</a></div>
       </div>
       <div className="flex h-[29vh] bg-[#3e484a] font-['Lato'] ">
         <div className="w-[74.9%]"></div>
         <div className='w-[11%] border-t-[#D67835]   text-2xl  border-t-2 pl-8 text-[#C4CFD2] '>
-          HEROKU SITE
+          <a className="ml-20 hover:text-[#D67835]" href="https://axie-guide-static-website.netlify.app" target="_blank">HEROKU SITE</a>
         </div>
         <div className="w-[14.1%]"></div>
       </div>

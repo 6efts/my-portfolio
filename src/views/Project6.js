@@ -29,10 +29,10 @@ const Project6 = () => {
       </div>
       <div className="flex h-[29vh] bg-[#3e484a] font-['Lato'] ">
         <div className="w-[74.9%]"></div>
-        <div className='w-[11%] border-t-[#D67835]   text-2xl  border-t-2 pl-8 text-[#C4CFD2] '>
-          <a className="ml-20 hover:text-[#D67835]" href="#" target="_blank">HEROKU SITE</a>
+        <div className='w-[20%] border-t-[#D67835]   text-2xl  border-t-2 pl-8 text-[#C4CFD2] '>
+          <a className="ml-24 hover:text-[#D67835]" href="https://nft-gallery-ui.herokuapp.com/" target="_blank">HEROKU SITE</a>
         </div>
-        <div className="w-[14.1%]"></div>
+        <div className="w-[5.1%]"></div>
       </div>
 
     </>

@@ -31,7 +31,7 @@ const Project5 = () => {
       <div className="flex h-[29vh] bg-[#3e484a] font-['Lato'] ">
         <div className="w-[74.9%]"></div>
         <div className='w-[11%] border-t-[#D67835]   text-2xl  border-t-2 pl-8 text-[#C4CFD2] '>
-          <a className="ml-20 hover:text-[#D67835]" href="https://axie-guide-static-website.netlify.app" target="_blank">HEROKU SITE</a>
+          <a className="ml-20 hover:text-[#D67835]" href="https://e-commerce-bp-app.herokuapp.com/" target="_blank">HEROKU SITE</a>
         </div>
         <div className="w-[14.1%]"></div>
       </div>
